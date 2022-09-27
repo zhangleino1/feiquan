@@ -25,7 +25,7 @@ class myThread (threading.Thread):
         threading.Thread.__init__(self)
         self.dm = dm
         self.mc = mc
-        self.fo = open("d:/tpl/2022"+mc+"非全日制招生学校和专业清单.md", "w",encoding='utf-8')
+        self.fo = open("d:/2023/2023"+mc+"非全日制招生学校和专业清单.md", "w",encoding='utf-8')
     def run(self):
         for city in json.loads(cities.text):
             self.fo.writelines('# '+ city['mc']+'\n' )
