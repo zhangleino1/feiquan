@@ -6,7 +6,7 @@
 ​
 
 **非全经验交流关注公众号【程序员石磊】，个人微信 lovepythoncn,加入非全在职考研群，让你的考研之路不再孤单**
-![weixin.png](https://cdn.nlark.com/yuque/0/2021/png/354158/1640270907276-41e89346-caee-461f-bc30-d8e6df02b3d8.png#clientId=u0cca4a59-a4eb-4&from=ui&id=u0571392a&margin=%5Bobject%20Object%5D&name=weixin.png&originHeight=258&originWidth=258&originalType=binary&ratio=1&size=44486&status=done&style=none&taskId=ub709cd8f-f6fe-4ef0-9f80-aab40f38ab2)
+![weixin.png](https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/yuque/0/2024/jpeg/354158/1717584738049-5a4ffdae-d469-44a9-b298-f86934b6e14c.jpeg?date=1717585212400)
 ## 非全考研经验帖
 [程序员在职考研](https://mp.weixin.qq.com/s?__biz=MzIzMTU3MzA1Nw==&mid=2247484917&idx=1&sn=fdd673d8780d17800eb882592b3b129b&chksm=e8a356dbdfd4dfcd3dda5a70fbd3284fef21639f46dceedac9a08ba2a558998f191df096ef92&token=432731056&lang=zh_CN#rd)
 # [2024非全日制研究生招生清单](https://www.yuque.com/lovepythoncn/xu1u2a)
